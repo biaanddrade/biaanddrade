@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Me chamo Bianca de Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, integrado ao curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por tecnologia e dados, e compartilho meu conhecimento através de projetos aqui no github.
+Me chamo Bianca Rosa, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, integrado ao curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por tecnologia e dados, e compartilho meu conhecimento através de projetos aqui no github.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
