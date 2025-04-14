@@ -8,7 +8,8 @@ Me chamo Bianca Rosa, tenho 20 anos e sou natural de São Paulo. Concluí o ensi
   <a href = "mailto:biancadeandraderosa@gmail.com"
   target="_blank"><img 
   src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/bianca-de-andrade-b18571236" target="_blank"><img
+  <a href="https://www.linkedin.com/in/bianca-de-andrade-b18571236/"
+  target="_blank"><img
   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://t.me/biaanddrade"
   target="_blank"><img
