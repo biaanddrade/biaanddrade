@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bianca Andrade
+# 👩🏻‍💻 Bianca Rosa
 
 **`Analista de dados`**
 
