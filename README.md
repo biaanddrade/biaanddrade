@@ -5,7 +5,7 @@
 Me chamo Bianca de Andrade, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, integrado ao curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por tecnologia e dados, e compartilho meu conhecimento através de projetos aqui no github.
 
 <div> 
-  <a href = "mailto:biancadeandraderosai@gmail.com"
+  <a href = "mailto:biancadeandraderosa@gmail.com"
   target="_blank"><img 
   src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/bianca-de-andrade-b18571236" target="_blank"><img
