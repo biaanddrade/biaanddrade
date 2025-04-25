@@ -1,6 +1,16 @@
-# 👩🏻‍💻 Bianca Rosa
+<div align="center" style="margin-bottom: 6px;">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC5C92&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola,+eu+sou+a+Bianca+Andrade!+%E2%8A%B9+" 
+      alt="Typing SVG"
+      style="display: block; margin: 0 auto;"
+    >
+  </a>
+</div>
 
-**`Analista de dados`**
+<p style="margin: 0; padding: 0;">
+  <code>Analista de dados</code>
+</p>
 
 Me chamo Bianca Rosa, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, integrado ao curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por tecnologia e dados, e compartilho meu conhecimento através de projetos aqui no github.
 
@@ -22,20 +32,10 @@ Me chamo Bianca Rosa, tenho 20 anos e sou natural de São Paulo. Concluí o ensi
 ---
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=biaanddrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biaanddrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biaanddrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaanddrade&theme=tokyonight&layout=compact&include_all_commits=true&locale=pt-br"   
-  />
-        
-</p>    
+###
+
