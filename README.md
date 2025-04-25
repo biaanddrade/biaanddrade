@@ -12,7 +12,7 @@
   <code>Analista de dados</code>
 </p>
 
-Me chamo Bianca Rosa, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, integrado ao curso técnico em Contabilidade. Atualmente, estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por tecnologia e dados, e compartilho meu conhecimento através de projetos aqui no github.
+Atualmente sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, porém, possuo diploma técnico em Contabilidade. Sou apaixonada por tecnologia e dados, me atualizo na área constantemente e busco novos desafios para aplicar meus conhecimentos e criar soluções inovadoras.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
