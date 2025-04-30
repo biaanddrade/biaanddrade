@@ -12,7 +12,7 @@
   <code>Analista de dados</code>
 </p>
 
-Atualmente sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, porém, possuo diploma técnico em Contabilidade. Sou apaixonada por tecnologia e dados, me atualizo na área constantemente e busco novos desafios para aplicar meus conhecimentos e criar soluções inovadoras.
+Atualmente, sou graduanda em Ciências da Computação na Universidade Presbiteriana Mackenzie com especialização técnica em Contabilidade. Além disso, possuo certificações compatíveis para a área de dados (Microsoft Power BI Para Business Intelligence e Data Science). Estou em constante aprendizado na área de tecnologia.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
