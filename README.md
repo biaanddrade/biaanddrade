@@ -12,7 +12,7 @@
   <code>Analista de dados</code>
 </p>
 
-Atualmente, sou graduanda em Ciências da Computação na Universidade Presbiteriana Mackenzie com especialização técnica em Contabilidade. Além disso, possuo certificações compatíveis para a área de dados (Microsoft Power BI Para Business Intelligence e Data Science). Estou em constante aprendizado na área de tecnologia.
+Atualmente, sou graduanda em Ciências da Computação na Universidade Presbiteriana Mackenzie com especialização técnica em Contabilidade. Além disso, possuo certificações compatíveis para a área de dados (Microsoft Power BI Para Business Intelligence e Data Science). Estou em constante aprendizado e evolução na área da tecnologia.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
