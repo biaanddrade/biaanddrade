@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom: 6px;">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC5C92&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola,+eu+sou+a+Bianca+Andrade!+%E2%8A%B9+" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC5C92&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+bem-vindo(a)+ao+meu+perfil!+%E2%8A%B9+" 
       alt="Typing SVG"
       style="display: block; margin: 0 auto;"
     >
@@ -12,7 +12,7 @@
   <code>Analista de dados</code>
 </p>
 
-Atualmente, sou graduanda em Ciências da Computação na Universidade Presbiteriana Mackenzie com especialização técnica em Contabilidade. Além disso, possuo certificações compatíveis para a área de dados (Microsoft Power BI Para Business Intelligence e Data Science). Estou em constante aprendizado e evolução na área da tecnologia.
+Olá! Sou Bianca Andrade, graduanda em Ciência da Computação pela Universidade Presbiteriana Mackenzie, com formação técnica em Contabilidade. Além disso, possuo certificações compatíveis para a área de dados como Microsoft Power BI Para Business Intelligence e Data Science. Estou em constante aprendizado e compartilho aqui meus projetos e evoluções na área.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
