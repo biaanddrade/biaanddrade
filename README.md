@@ -12,7 +12,7 @@
   <code>Analista de dados</code>
 </p>
 
-Olá! Sou Bianca Andrade, graduanda em Ciência da Computação pela Universidade Presbiteriana Mackenzie, com formação técnica em Contabilidade. Atualmente sou Estagiária na área de Analytics. Estou em constante aprendizado e compartilho aqui meus projetos e evoluções na área.
+Olá! Sou Bianca Andrade, graduanda em Ciência da Computação pela Universidade Presbiteriana Mackenzie, com formação técnica em Contabilidade. Atualmente atuo como Estagiária na área de Analytics, onde transformo dados brutos em insights estratégicos para em tomadas de decisão mais assertivas. Estou em constante aprendizado e compartilho aqui meus projetos e evoluções na área.
 
 <div> 
   <a href = "mailto:biancadeandraderosa@gmail.com"
